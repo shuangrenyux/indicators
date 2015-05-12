@@ -3,7 +3,7 @@ Indicators
 
 Trading indicators used in technical analysis of stock prices.
 
-Implemented indicators:
+Implemented indicators in Python:
 
 [EMA](http://en.wikipedia.org/wiki/Moving_average#Exponential_moving_average): Exponential Moving Average
 
