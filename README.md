@@ -18,7 +18,7 @@ def getEMAList(inlist,num):
     return emaList
 ```
 
-[MACD](http://en.wikipedia.org/wiki/MACD): Moving Average Convergence/Divergence
+[MACD](http://en.wikipedia.org/wiki/MACD): Moving Average Convergence/Divergence `_note_:(Need getEMAList())`
 
 ```Python
 def getMACDList(inList,short,long,mid):
